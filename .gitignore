@@ -1,0 +1,8 @@
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+model.pkl
+model.keras
+preprocessor.pkl
+feature_metadata.pkl

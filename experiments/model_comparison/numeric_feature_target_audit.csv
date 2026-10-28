@@ -1,0 +1,5 @@
+feature,type,retained_count,churn_count,retained_median,churn_median,retained_mean,churn_mean,overall_missing
+SeniorCitizen,numeric,761,239,0.0,0.0,0.15374507227332457,0.1799163179916318,0
+tenure,numeric,761,239,38.0,31.0,37.21024967148489,32.96234309623431,0
+MonthlyCharges,numeric,761,239,67.22,71.41,68.7231011826544,69.9039748953975,0
+TotalCharges,numeric,761,239,4200.09,4165.0,4097.961300919842,4114.864644351464,0

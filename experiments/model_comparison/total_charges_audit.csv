@@ -1,0 +1,2 @@
+rows,missing_total_charges,total_charges_mean,total_charges_median,correlation_with_tenure_times_monthly,rows_over_20pct_relative_difference,zero_tenure_positive_total_charges,interpretation
+1000,0,4102.001200000001,4197.96,0.00511991360597523,876,12,Approximate billing diagnostic only; not a confirmed error or filter.
